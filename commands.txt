@@ -1,0 +1,3 @@
+git init --> for initializing git repository.
+git status--> for checking current status
+git add .--> for adding changes done to staging area
